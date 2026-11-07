@@ -1,0 +1,4 @@
+# Hazm is OPTIONAL. The core (normalize + light stem + cluster) is pure
+# standard library and works without it. Install Hazm only if you want
+# its stronger stemmer (verb conjugations) via stem(word, engine="hazm").
+hazm>=0.9
